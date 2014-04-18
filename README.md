@@ -1,4 +1,0 @@
-LittleDevil
-===========
-
-Queries
